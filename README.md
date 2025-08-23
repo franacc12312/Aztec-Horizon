@@ -1,37 +1,100 @@
-# Aztec Horizon
+# 🌅 Aztec Horizon
 
-**Aztec Horizon** is an internal, community facing exploration program, focused on shipping bold, open source experiments on Aztec. Our goal is simple, show that the new world of privacy native applications is already under construction, invite builders to co create it with us.
+**Aztec Horizon** is the exploration program of the Aztec ecosystem.  
+It is where we incubate bold, open source experiments that showcase what privacy native blockchains can enable.  
 
-## What this is
+Aztec is not just another zk rollup, it is a platform for building applications that respect privacy by default. Horizon exists to coordinate, brand, and accelerate those experiments. Our mission is to show that the new world of private applications is already under construction.
 
-- A branded umbrella for early stage projects, reference implementations, and design probes.
-- A place to turn PRDs into working code, fast.
-- A clear path for contributors, designers, developers, researchers, to propose ideas and earn grants or bounties.
+---
 
-## Why now
+## ✨ What is Aztec Horizon?
 
-Aztec is early, yet not empty. We have momentum, we have talented builders, and we want to balance that signal with an open invitation to explore. Horizon projects will showcase what only Aztec can enable, private UX, selective disclosure, novel coordination patterns.
+- A **curated library of Product Requirement Documents (PRDs)**, early concepts, and design probes.  
+- A **launchpad for developers and researchers** who want to explore privacy preserving use cases.  
+- A **public home for experiments** that may turn into startups, hackathon projects, or ecosystem tools.  
 
-## How to participate
+Anyone can pick up a PRD, propose improvements, or start building.  
 
-- **Propose an idea**, open an issue using **Idea Proposal** template.
-- **Apply for a grant or bounty**, use the **Grant or Bounty** template, check `/grants`.
-- **Pick up a task**, search issues by labels like `good first issue`, `bounty`, `tooling`, `noir`.
-- **Join discussions**, use GitHub Discussions for ideas, Q&A, and show and tell.
+---
 
-## PRDs
+## 🤝 How to Participate
 
-We maintain product requirement documents under `/prds`. If you already have a PRD, add it following the template in `/prds/templates/PRD_TEMPLATE.md`, then open a PR.
+- Browse the PRDs below, pick one that excites you.  
+- Fork this repo, or join a discussion in [Issues](../../issues) or [Discussions](../../discussions).  
+- Open a PR to add a new PRD or contribute code.  
+- Apply for a grant or bounty through the `/grants` process.  
 
-## Governance and quality
+---
 
-- Code of Conduct, see `CODE_OF_CONDUCT.md`.
-- Contribution guide, see `CONTRIBUTING.md`.
-- Security policy, see `SECURITY.md`.
-- Simple governance, see `GOVERNANCE.md`.
+# 📂 PRD Library
 
-## License
+Below is a categorized index of all Product Requirement Documents in `/PRDs/`.
 
-Unless stated otherwise, repositories and content here are MIT licensed, see `LICENSE`.
+---
 
-**Tagline**: Building the new world, together.
+## 🏦 Private Finance and Treasury
+- **Private Payroll Payments** → [PRD](./PRDs/Private_Payroll_Payments.md)  
+- **Private On-chain Investment Fund** → [PRD](./PRDs/Private_On_chain_Investment_Fund.md)  
+- **Private Credit Scoring & Loans** → [PRD](./PRDs/Private_Credit_Scoring_and_Loans.md)  
+- **Private On-chain Pension & Retirement Fund** → [PRD](./PRDs/Private_On_chain_Pension_and_Retirement_Fund.md)  
+
+---
+
+## 🛒 Confidential Commerce & Marketplaces
+- **Private On-chain Lottery & Betting Games** → [PRD](./PRDs/Private_On_chain_Lottery_and_Betting_Games.md)  
+- **Private Data Marketplace** → [PRD](./PRDs/Private_Data_Marketplace.md)  
+- **Private Subscription Platform (“zk Patreon”)** → [PRD](./PRDs/Private_Subscription_Platform_ZK_Patreon.md)  
+- **zk-COGS & Private Margins for eCommerce and DAOs** → [PRD](./PRDs/zk_COGS_and_Private_Margins_for_eCommerce_and_DAOs.md)  
+- **NFT Blind Auction Marketplace** → [PRD](./PRDs/NFT_Blind_Auction_Marketplace.md)  
+
+---
+
+## 🧑‍💻 Identity, Eligibility & Anti-Sybil
+- **zkMembership & Eligibility Gate** → [PRD](./PRDs/ZKMembership_and_Eligibility_Gate.md)  
+- **Private Anti-Sybil Airdrop Platform** → [PRD](./PRDs/Private_Anti_Sybil_Airdrop_Platform.md)  
+- **zk-Reputation Forum (Unirep style)** → [PRD](./PRDs/zk_Reputation_Forum_Unirep_style.md)  
+- **RLN Private Messaging for Web3 Communities** → [PRD](./PRDs/RLN_Private_Messaging_for_Web3_Communities.md)  
+
+---
+
+## 🗳 Private Governance & Coordination
+- **Private Voting Module for DAOs** → [PRD](./PRDs/Private_Voting_Module_for_DAOs.md)  
+- **Secret Proposal & Polling Kit** → [PRD](./PRDs/Secret_Proposal_and_Polling_Kit.md)  
+
+---
+
+## ⚖️ Legal, Compliance & Contracts
+- **Private LLC/DAO Entity Registration** → [PRD](./PRDs/Private_LLC_DAO_Entity_Registration.md)  
+- **Confidential NDA Contract Management** → [PRD](./PRDs/Confidential_NDA_Contract_Management.md)  
+- **Private Work-for-Hire Contracts with Escrow** → [PRD](./PRDs/Private_Work_for_Hire_Contracts_with_Escrow.md)  
+- **Encrypted Document Notarization & Timestamping** → [PRD](./PRDs/Encrypted_Document_Notarization_and_Timestamping.md)  
+- **Selective KYC & AML Compliance Proofs** → [PRD](./PRDs/Selective_KYC_and_AML_Compliance_Proofs.md)  
+- **Confidential Asset Escrow for Deals** → [PRD](./PRDs/Confidential_Asset_Escrow_for_Deals.md)  
+
+---
+
+## 📦 Supply Chain & Real-World Attestations
+- **Private Supply Chain Compliance Certificates** → [PRD](./PRDs/Private_Supply_Chain_Compliance_Certificates.md)  
+
+---
+
+## 📊 Privacy-Preserving Collaboration & Analytics
+- **MPC Data Collaboration Room** → [PRD](./PRDs/MPC_Data_Collaboration_Room.md)  
+
+---
+
+## 🌍 Social Impact & User Safety
+- **Anonymous Whistleblowing Platform** → [PRD](./PRDs/Anonymous_Whistleblowing_Platform.md)  
+- **Anonymous Donations Portal** → [PRD](./PRDs/Anonymous_Donations_Portal.md)  
+
+---
+
+## 👟 Next Steps
+- 👉 Pick an idea above and explore its PRD.  
+- 🧱 Fork the [Aztec Starter](https://github.com/AztecProtocol/aztec-starter).  
+- 💬 Join the [Aztec Discord](https://discord.gg/aztec).  
+- 💰 Apply for a grant to take your idea live.  
+
+---
+
+✏️ *This README and PRD index will evolve as new ideas are added. Contributions are welcome.*
