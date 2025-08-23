@@ -1,4 +1,4 @@
-# 🌅 Aztec Horizon
+# Aztec Horizon
 
 **Aztec Horizon** is the exploration program of the Aztec ecosystem.  
 It is where we incubate bold, open source experiments that showcase what privacy native blockchains can enable.  
@@ -22,7 +22,6 @@ Anyone can pick up a PRD, propose improvements, or start building.
 - Browse the PRDs below, pick one that excites you.  
 - Fork this repo, or join a discussion in [Issues](../../issues) or [Discussions](../../discussions).  
 - Open a PR to add a new PRD or contribute code.  
-- Apply for a grant or bounty through the `/grants` process.  
 
 ---
 
