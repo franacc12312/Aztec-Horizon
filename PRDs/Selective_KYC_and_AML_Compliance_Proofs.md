@@ -1,3 +1,5 @@
+# Selective KYC and AML Compliance Proofs
+
 ## 1) Vision and Value Proposition
 
 **What it is**

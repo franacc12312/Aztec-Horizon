@@ -1,3 +1,5 @@
+# Private Subscription Platform (ZK Patreon)
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native membership and subscriptions platform on Aztec, where fans support creators or communities with recurring payments, identities and amounts stay private by default, creators publish only the minimum needed for social proof and compliance.

@@ -1,3 +1,5 @@
+# Secret Proposal and Polling Kit
+
 ## 1) Vision and value proposition
 
 **What it is**: a confidential deliberation toolkit for DAOs on Aztec, run anonymous sentiment polls, draft proposals in a private workspace, reveal only aggregates or finalized text, protect contributors and strategy.

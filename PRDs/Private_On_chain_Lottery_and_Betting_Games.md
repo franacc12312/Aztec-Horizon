@@ -1,3 +1,5 @@
+# Private On-chain Lottery and Betting Games
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native lottery platform on Aztec where players place wagers and receive payouts without exposing identities or bet sizes to the public, with provably fair games and selective, audit ready disclosures for regulators and partners.

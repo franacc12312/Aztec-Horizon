@@ -1,3 +1,5 @@
+# RLN Private Messaging for Web3 Communities
+
 ## 1) Vision and value proposition
 
 **What it is**: an anonymous messaging layer for Web3 communities that uses rate limit nullifiers, each identity can send limited messages per epoch anonymously, spam reveals the sender cryptographically, communities get private by default chat with built in anti abuse.

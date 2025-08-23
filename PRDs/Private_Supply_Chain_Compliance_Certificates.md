@@ -1,3 +1,5 @@
+# Private Supply Chain Compliance Certificates
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native certification layer on Aztec where manufacturers, suppliers, and auditors issue encrypted attestations about origin, quality, or standards, buyers verify compliance with zero knowledge proofs, sensitive supplier data never leaks.
@@ -141,5 +143,3 @@ https://www.provenance.org/news-insights/blockchain-certification
 https://www.blockchain-council.org/blockchain/vechain-thor
 
 https://www.imda.gov.sg/how-we-can-help/digital-utilities/tradetrust
-
-https://x.com/Franacc_

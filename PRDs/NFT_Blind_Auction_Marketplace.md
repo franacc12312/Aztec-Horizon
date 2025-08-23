@@ -1,3 +1,5 @@
+# NFT Blind Auction Marketplace
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native NFT marketplace on Aztec where bids and bidder identities stay private during the auction, and optionally after settlement. Creators run sealed auctions that discover fair prices without reputation bias or last minute sniping.

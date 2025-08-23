@@ -1,3 +1,5 @@
+# Private Work for Hire Contracts with Escrow
+
 ## 1) Vision and Value Proposition
 
 **What it is**

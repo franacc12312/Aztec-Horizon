@@ -1,3 +1,5 @@
+# Private Anti-Sybil Airdrop Platform
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native airdrop and claim platform on Aztec that lets projects distribute tokens or NFTs without exposing who claimed, while stopping multi wallet abuse with zero knowledge proofs and single use claim rules.

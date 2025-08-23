@@ -1,3 +1,5 @@
+# ZKMembership and Eligibility Gate
+
 ## 1) Vision and value proposition
 
 **What it is**: a reusable proof of membership and eligibility layer for any Aztec app. Users prove they belong to a group or satisfy a policy, the app only learns pass or fail, never the user’s identity. Eligibility can be time bound, jurisdiction bound, reputation bound, or bundle multiple claims.

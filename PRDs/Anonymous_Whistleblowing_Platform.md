@@ -1,3 +1,5 @@
+# Anonymous Whistleblowing Platform
+
 ## 1) Vision and value proposition
 
 **What it is**: an Aztec based whistleblowing and compliance channel, reporters submit encrypted cases and evidence, reviewers receive, triage, and respond privately, immutable receipts prove timeline and handling, identity remains protected.

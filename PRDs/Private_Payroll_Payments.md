@@ -1,3 +1,5 @@
+# Private Payroll Payments
+
 ## 1) Vision and Value Proposition
 
 **What it is**: A B2B platform that enables companies to pay salaries and fees in crypto privately on Aztec. Amounts and the identities of payer and recipient are not publicly exposed. The company retains full control to meet audit requirements with “selective disclosure.”

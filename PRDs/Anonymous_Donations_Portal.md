@@ -1,3 +1,5 @@
+# Anonymous Donations Portal
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native donations platform on Aztec where individuals and organizations can give to causes without revealing donor identity or amount to the public, while recipients can publish trustworthy aggregate totals and accept selective audits when needed.

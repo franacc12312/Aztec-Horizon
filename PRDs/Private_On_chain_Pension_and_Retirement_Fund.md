@@ -1,3 +1,5 @@
+# Private On-chain Pension and Retirement Fund
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native retirement plan on Aztec where employees and contributors make recurring deposits, employers match, balances grow in approved strategies, and all sensitive data stays private by default. Auditors and regulators can receive selective proofs on demand, no full ledger exposure.

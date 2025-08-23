@@ -1,3 +1,5 @@
+# Private On-chain Investment Fund
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native asset management platform on Aztec where fund managers run strategies without exposing trades or positions to the public, while investors enjoy private balances and selective, audit ready disclosures.

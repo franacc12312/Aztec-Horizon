@@ -1,3 +1,5 @@
+# Private Data Marketplace
+
 - Stops competitive intelligence leaks that happen on public chains, buyer and seller strategies stay private.
 
 ## 1) Vision and value proposition

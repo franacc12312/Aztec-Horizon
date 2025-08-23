@@ -1,3 +1,5 @@
+# zk-COGS and Private Margins for eCommerce and DAOs
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native proof layer on Aztec where organizations attest to cost of goods sold, discounts, and margin ranges, counterparties and auditors verify compliance and fairness with zero knowledge proofs, no raw costs or price lists are exposed.

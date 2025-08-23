@@ -1,3 +1,5 @@
+# Private Credit Scoring and Loans
+
 ## 1) Vision and value proposition
 
 **What it is**: a privacy native lending platform on Aztec that issues loans based on zero knowledge proofs of creditworthiness, borrowers prove income, history or reputation privately, lenders earn yield with risk based pricing, compliance is handled through selective disclosure, never public data dumps.

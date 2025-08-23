@@ -1,3 +1,5 @@
+# Private Voting Module for DAOs
+
 ## 1) Vision and value proposition
 
 **What it is**: a plug in voting module for DAOs on Aztec that delivers secret ballots with proof of eligibility and verifiable tallies, members vote privately, only the final result is revealed, optional disclosures for audits.

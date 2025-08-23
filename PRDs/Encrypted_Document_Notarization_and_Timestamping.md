@@ -1,3 +1,5 @@
+# Encrypted Document Notarization and Timestamping
+
 ## 1) Vision and Value Proposition
 
 **What it is**

@@ -1,3 +1,5 @@
+# zk-Reputation Forum, Unirep style
+
 ## 1) Vision and value proposition
 
 **What it is**: an anonymous forum and contribution system on Aztec, users post and vote with private identities, reputation is accrued privately and enforced with zk proofs and checkpoints, only policy signals are public.

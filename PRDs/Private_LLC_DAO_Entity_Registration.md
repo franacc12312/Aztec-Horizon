@@ -1,3 +1,5 @@
+# Private LLC/DAO Entity Registration
+
 ## 1) Vision and Value Proposition
 
 **What it is**:
