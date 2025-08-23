@@ -94,7 +94,6 @@ Below is a categorized index of all Product Requirement Documents in `/PRDs/`.
 - 👉 Pick an idea above and explore its PRD.  
 - 🧱 Fork the [Aztec Starter](https://github.com/AztecProtocol/aztec-starter).  
 - 💬 Join the [Aztec Discord](https://discord.gg/aztec).  
-- 💰 Apply for a grant to take your idea live.  
 
 ---
 
