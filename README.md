@@ -3,7 +3,9 @@
 **Aztec Horizon** is the exploration program of the Aztec ecosystem.  
 It is where we incubate bold, open source experiments that showcase what privacy native blockchains can enable.  
 
-Aztec is not just another zk rollup, it is a platform for building applications that respect privacy by default. Horizon exists to coordinate, brand, and accelerate those experiments. Our mission is to show that the new world of private applications is already under construction.
+Aztec is not just another zk rollup, it is a foundation for building applications that respect privacy by default.
+Horizon is the program where these ideas are shaped, coordinated, and accelerated into reality.
+Our mission is to demonstrate that the next wave of private applications is not a distant vision, it is already under construction, and Horizon is the place to build them together.
 
 ---
 
