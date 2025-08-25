@@ -23,9 +23,6 @@ Thank you for your interest. We welcome ideas, code, research, and design.
 ## Labels
 We use labels like `area:app`, `area:tooling`, `status:help wanted`, `good first issue`, `bounty`, `grant`, `noir`, `docs`.
 
-## Grants and bounties
-See `/grants/README.md` for process, evaluation criteria, and payout schedule.
-
 ## Project board
 We maintain a public board for roadmap and status. Columns, backlog, in progress, review, done.
 
