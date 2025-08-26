@@ -21,9 +21,9 @@ Anyone can pick up a PRD, propose improvements, or start building.
 
 ## 🤝 How to Participate
 
-- Browse the PRDs below, pick one that excites you.  
-- Fork this repo, or join a discussion in [Issues](../../issues) or [Discussions](../../discussions).  
-- Open a PR to add a new PRD or contribute code.  
+- Fork the [Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) and start coding.  
+- Share your repo in the [Aztec.nr Discord](https://discord.com/invite/JtqzkdeQ6G) so we can follow your progress.  
+- Open a PR here if you want to add or improve a PRD.
 
 ---
 
@@ -92,8 +92,8 @@ Below is a categorized index of all Product Requirement Documents in `/PRDs/`.
 
 ## 👟 Next Steps
 - 👉 Pick an idea above and explore its PRD.  
-- 🧱 Fork the [Aztec Starter](https://github.com/AztecProtocol/aztec-starter).  
-- 💬 Join the [Aztec Discord](https://discord.gg/aztec).  
+- 🧱 Fork the [Wonderland Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) to bootstrap your project.  
+- 💬 Join the [Aztec.nr Discord](https://discord.com/invite/JtqzkdeQ6G).  
 
 ---
 
