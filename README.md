@@ -1,7 +1,7 @@
 # Aztec Horizon
 
 **Aztec Horizon** is the exploration program of the Aztec ecosystem.  
-It is where we incubate bold, open source experiments that showcase what privacy native blockchains can enable.  
+It is where we spark bold, open source experiments that showcase what privacy native blockchains can enable.  
 
 Aztec is not just another zk rollup, it is a foundation for building applications that respect privacy by default.
 Horizon is the program where these ideas are shaped, coordinated, and accelerated into reality.
@@ -93,8 +93,22 @@ Below is a categorized index of all Product Requirement Documents in `/PRDs/`.
 ## 👟 Next Steps
 - 👉 Pick an idea above and explore its PRD.  
 - 🧱 Fork the [Wonderland Aztec Boilerplate](https://github.com/defi-wonderland/aztec-boilerplate) to bootstrap your project.  
+- 📚 Explore [Awesome Aztec](https://github.com/AztecProtocol/awesome-aztec) for ready-to-use examples and learning resources.  
 - 💬 Join the [Aztec.nr Discord](https://discord.com/invite/JtqzkdeQ6G).  
 
 ---
 
 ✏️ *This README and PRD index will evolve as new ideas are added. Contributions are welcome.*
+
+# Disclaimer
+
+Aztec Horizon is an initiative created and maintained by Aztec.  
+
+The purpose of this repository is to serve as a **catalyst and inspiration** for developers, founders, and community members who want to explore new ideas, applications, and startups.  
+
+However:  
+- **Projects, experiments, or companies** that emerge from this repository or from the ideas shared here are **independent initiatives**.  
+- Their existence does **not imply endorsement, sponsorship, or official support from Aztec**.  
+- Aztec is **not responsible** for the direction, success, or claims of any derivative projects.  
+
+In short: Horizon is a sandbox for inspiration, but what is built on top of it belongs to its own creators, not to Aztec.
