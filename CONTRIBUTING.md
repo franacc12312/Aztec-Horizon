@@ -4,7 +4,6 @@ Thank you for your interest. We welcome ideas, code, research, and design.
 
 ## Ways to contribute
 - Open an **Idea Proposal** issue to pitch a project or feature.
-- Submit a **Grant or Bounty** request if you plan to build.
 - Join **Discussions** for brainstorming, Q&A, and progress updates.
 - Improve docs, examples, or tests.
 
@@ -25,6 +24,3 @@ We use labels like `area:app`, `area:tooling`, `status:help wanted`, `good first
 
 ## Project board
 We maintain a public board for roadmap and status. Columns, backlog, in progress, review, done.
-
-## Community
-Please read our `CODE_OF_CONDUCT.md`. Be kind, assume good intent, disagree with ideas, not with people.
