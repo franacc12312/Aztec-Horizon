@@ -7,7 +7,8 @@ We are committed to a respectful, inclusive, and collaborative community.
 - Assume good intent, debate ideas, avoid personal attacks.
 
 **Reporting**  
-If you experience or witness unacceptable behavior, please report privately to the maintainers, listed in `GOVERNANCE.md`. We will review, keep confidentiality, and act as needed.
+If you experience or witness unacceptable behavior, please report privately by email at [team@aztecprotocol.com] or reach out to a maintainer directly (see repository owners). We will review, keep confidentiality, and act as needed.
+
 
 Consequences may include warnings, temporary or permanent removal from community spaces.
 
